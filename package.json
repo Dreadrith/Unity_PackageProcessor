@@ -1,6 +1,6 @@
 {
   "name": "com.dreadrith.packageprocessor",
-  "displayName": "DreadTools - PackageProcessor",
+  "displayName": "DreadScripts - PackageProcessor",
   "version": "1.0.0",
   "description": "Make it less tedious to import or export only the things that you need.",
   "gitDependencies": {},

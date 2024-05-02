@@ -22,7 +22,7 @@ namespace DreadScripts.PackageProcessor
         private static Object targetFolder;
         private static Object targetAsset;
 
-        [MenuItem("DreadTools/Scripts Settings/Package Processor")]
+        [MenuItem("DreadTools/Utility/Package Processor")]
         public static void ShowWindow() => GetWindow<PackageProcessorWindow>(false, "Package Processor Settings", true);
         
         private void OnGUI()
