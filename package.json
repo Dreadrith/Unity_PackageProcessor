@@ -2,7 +2,7 @@
   "name": "com.dreadrith.packageprocessor",
   "displayName": "DreadTools - Package Processor",
   "version": "1.0.0",
-  "description": "Removes the mundane and repetitive things you have to do when exporting or importing packages",
+  "description": "Make it less tedious to import or export only the things that you need.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
